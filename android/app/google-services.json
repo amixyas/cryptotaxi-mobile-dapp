@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786939285597",
+    "firebase_url": "https://crypto-taxi-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crypto-taxi",
+    "storage_bucket": "crypto-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786939285597:android:df55386e8f95d97e9f3db4",
+        "android_client_info": {
+          "package_name": "com.esisba.cryptotaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786939285597-g18oufpo4v50ch5pq1e4uisli3jsl24j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esisba.cryptotaxi",
+            "certificate_hash": "4bf2a2f5b31180ea56f91a536c01f7110b6f11b9"
+          }
+        },
+        {
+          "client_id": "786939285597-ds758oqb2fe4226s9qjifqm0adqs5s3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcCf2Q9nLoEo3LMUtOMP0rfMGkTnjTfeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786939285597-ds758oqb2fe4226s9qjifqm0adqs5s3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
